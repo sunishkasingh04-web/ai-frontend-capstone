@@ -1,21 +1,40 @@
 # AI Frontend Capstone
 
-This repository contains my capstone project and assignments completed during the FlyRank AI Frontend AI Engineering Internship.
+This repository contains my capstone work for the FlyRank AI Frontend AI Engineering Internship.
 
-## About
+## Overview
 
-This repository is used to practice AI-assisted frontend development, Git workflows, and modern development tools throughout the internship.
+The purpose of this repository is to document my learning journey while building frontend applications using AI-assisted development practices.
+
+## Objectives
+
+- Learn AI-assisted frontend development
+- Practice Git and GitHub workflows
+- Build production-ready frontend projects
+- Follow Conventional Commits
+- Write clean and maintainable code
 
 ## Tech Stack
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Git
 - GitHub
-- Claude Code
 - VS Code
+- Claude Code
+
+## Repository Structure
+
+```
+README.md
+LICENSE
+.gitignore
+CLAUDE.md
+```
 
 ## Author
 
-Sunishka Singh
+**Sunishka Singh**
+
+Frontend AI Engineering Intern at FlyRank AI
