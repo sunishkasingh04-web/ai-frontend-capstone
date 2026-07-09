@@ -27,3 +27,5 @@ This repository is maintained as part of the FlyRank AI Frontend AI Engineering 
 - Learn AI-assisted frontend development.
 - Build high-quality frontend projects.
 - Follow Git best practices throughout development.
+- Use AI responsibly to improve productivity.
+- Maintain clear project documentation.
