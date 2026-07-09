@@ -33,6 +33,12 @@ LICENSE
 CLAUDE.md
 ```
 
+## Getting Started
+
+1. Clone this repository to your local machine.
+2. Open the project in VS Code.
+3. Review the repository files and start building or documenting your frontend work.
+
 ## Author
 
 **Sunishka Singh**
